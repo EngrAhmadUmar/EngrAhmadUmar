@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ahmad Ahmed
+👋 Hi, I’m Ahmad Ahmed
 
 <!---
 EngrAhmadUmar/EngrAhmadUmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
